@@ -334,7 +334,7 @@
 @Article{Abouelwafa1980The,
   author   = {Abouelwafa, M. Sami A. and Kendall, E. John M.},
   title    = {The Use of Capacitance Sensors for Phase Percentage Determination in Multiphase Pipelines},
-  journal  = {IEEE Transactions on Instrumentation \& Measurement},
+  journal  = {IEEE Transactions onInstrumentation \& Measurement},
   year     = {1980},
   volume   = {29},
   number   = {1},

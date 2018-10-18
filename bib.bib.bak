@@ -334,7 +334,7 @@
 @Article{Abouelwafa1980The,
   author   = {Abouelwafa, M. Sami A. and Kendall, E. John M.},
   title    = {The Use of Capacitance Sensors for Phase Percentage Determination in Multiphase Pipelines},
-  journal  = {IEEE Transactions on Instrumentation \& Measurement},
+  journal  = {Instrumentation \& Measurement IEEE Transactions on},
   year     = {1980},
   volume   = {29},
   number   = {1},
@@ -1906,7 +1906,6 @@
   number        = {11},
   pages         = {3287},
   __markedentry = {[CUI Ziqiang:6]},
-  file          = {:Dynamic imaging in electrical capacitance tomography and electromagnetic induction tomography using a Kalman filter.pdf:PDF},
   publisher     = {IOP Publishing},
 }
 
