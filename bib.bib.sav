@@ -1876,22 +1876,44 @@
 }
 
 @Article{Soleimani2007,
-  author        = {Soleimani, Manuchehr and Vauhkonen, Marko and Yang, Wuqiang and Peyton, Anthony and Kim, Bong Seok and Ma, Xiandong},
-  title         = {Dynamic imaging in electrical capacitance tomography and electromagnetic induction tomography using a Kalman filter},
-  journal       = {Measurement Science and Technology},
-  year          = {2007},
-  volume        = {18},
-  number        = {11},
-  pages         = {3287},
-  __markedentry = {[CUI Ziqiang:]},
-  file          = {:Dynamic imaging in electrical capacitance tomography and electromagnetic induction tomography using a Kalman filter.pdf:PDF},
-  publisher     = {IOP Publishing},
+  author    = {Soleimani, Manuchehr and Vauhkonen, Marko and Yang, Wuqiang and Peyton, Anthony and Kim, Bong Seok and Ma, Xiandong},
+  title     = {Dynamic imaging in electrical capacitance tomography and electromagnetic induction tomography using a Kalman filter},
+  journal   = {Measurement Science and Technology},
+  year      = {2007},
+  volume    = {18},
+  number    = {11},
+  pages     = {3287},
+  file      = {:Dynamic imaging in electrical capacitance tomography and electromagnetic induction tomography using a Kalman filter.pdf:PDF},
+  publisher = {IOP Publishing},
 }
 
 @Article{Agilent2008,
-  author        = {Agilent},
-  title         = {Solutions for measuring permittivity and permeability with LCR meters and impedance analyzers},
-  year          = {2008},
+  author = {Agilent},
+  title  = {Solutions for measuring permittivity and permeability with LCR meters and impedance analyzers},
+  year   = {2008},
+}
+
+@Article{MortarelliNov.,
+  author        = {Mortarelli, J. R.},
+  title         = {A Generalization of the Geselowitz Relationship Useful in Impedance Plethysmographic Field Calculations},
+  journal       = {IEEE Transactions on Biomedical Engineering},
+  year          = {Nov.},
+  volume        = {BME-27},
+  number        = {11},
+  pages         = {665--667},
+  issn          = {0018-9294},
+  __markedentry = {[CUI Ziqiang:]},
+  call-number   = {BME-27},
+  keywords      = {Conductors, Conductivity, Electrodes, Electromagnetic fields, Frequency, Geometry, Sampling methods, Fluctuations, Surface impedance, Current density, Electromagnetic Fields, Electromagnetics, Mathematics, Plethysmography, Impedance},
+}
+
+@Article{Avila2018,
+  author        = {Avila, Jorge R. Salas and How, Kin Yau and Lu, Mingyang and Yin, Wuliang},
+  title         = {A Novel Dual Modality Sensor With Sensitivities to Permittivity, Conductivity, and Permeability},
+  journal       = {IEEE Sens. J},
+  year          = {2018},
+  volume        = {18},
+  pages         = {356--362},
   __markedentry = {[CUI Ziqiang:6]},
 }
 
