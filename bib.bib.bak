@@ -2808,7 +2808,7 @@
   __markedentry = {[CUI Ziqiang:6]},
 }
 
-@Book{,
+@Book{Oetiker,
   title  = {The not so Short Introduction to LaTeX},
   author = {Tobias Oetiker},
 }
