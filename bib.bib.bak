@@ -3110,4 +3110,9 @@
   doi           = {10.1109/JSEN.2018.2868959},
 }
 
+@Book{,
+  title  = {The not so Short Introduction to LaTeX},
+  author = {Tobias Oetiker},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
