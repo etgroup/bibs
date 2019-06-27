@@ -23,4 +23,5 @@
 ## 4、BibTex Key的生成
 
 （1）建议使用Auto Generate Key功能： Jabref ==> Options ==> Preferences ==> BibTex Key generator ==> Default pattern 中输入 *[auth][year]*
+
 （2）在Quality中，选择AutoGenerate BibTex Key
